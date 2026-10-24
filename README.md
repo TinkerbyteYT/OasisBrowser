@@ -2,7 +2,9 @@
 
 Oasis is a modern, smooth, and lightweight web browser built on top of the Chromium engine. Designed from the ground up to prioritize user privacy, Oasis completely removes Google's built-in telemetry, tracking scripts, and data collection mechanisms. 
 
-Key architectural components, memory management, and browser window rendering are built using Node.js to ensure a highly responsive and customizable browsing experience.
+Key architectural components, memory management, and browser window rendering are built using Node.js to ensure a highly responsive browsing experience.
+
+<img width="2557" height="1377" alt="Screenshot 2026-10-24 095404" src="https://github.com/user-attachments/assets/b313be57-353a-47ce-84d9-7af5b3ebe028" />
 
 ## Features
 
