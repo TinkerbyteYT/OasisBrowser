@@ -5,6 +5,7 @@ Oasis is an open source, modern, smooth, and lightweight web browser built on to
 Key architectural components, memory management, and browser window rendering are built using Node.js to ensure a highly responsive browsing experience.
 
 NOTE: v0.2 will support macOS (Tahoe+). Linux support will be added at initial release.
+NOTE: Please press on tags under releases.
 
 <img width="2557" height="1377" alt="Screenshot 2026-10-24 095404" src="https://github.com/user-attachments/assets/b313be57-353a-47ce-84d9-7af5b3ebe028" />
 (Picture from v0.1)
