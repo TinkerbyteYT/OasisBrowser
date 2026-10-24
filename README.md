@@ -1,6 +1,6 @@
 # Oasis Browser
 
-Oasis is a modern, smooth, and lightweight web browser built on top of the Chromium engine. Designed from the ground up to prioritize user privacy, Oasis completely removes Google's built-in telemetry, tracking scripts, and data collection mechanisms. 
+Oasis is an open source, modern, smooth, and lightweight web browser built on top of the Chromium engine. Designed from the ground up to prioritize user privacy, Oasis completely removes Google's built-in telemetry, tracking scripts, and data collection mechanisms. 
 
 Key architectural components, memory management, and browser window rendering are built using Node.js to ensure a highly responsive browsing experience.
 
