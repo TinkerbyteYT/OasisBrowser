@@ -13,7 +13,7 @@ NOTE: v0.2 will support macOS (Tahoe+). Linux support will be added at initial r
 * **Zero Telemetry:** All background tracking, data logging, and automated reporting to Google infrastructure have been stripped out.
 * **Custom Search Infrastructure:** Full user control over the default search engine configuration with no hardcoded commercial tracking partners.
 * **Localization Capabilities:** Deep multi-language support enabling fast, seamless language switching within the core user interface.
-* **Optimized UI Engine:** A clean, minimal layout designed to minimize system resources and maximize screen real estate.
+* **Optimized UI Engine:** A clean, minimal layout designed to minimize system resources and maximize screen real estate. There will be customization features added over updates.
 
 
 ## Installation and Execution
